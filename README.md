@@ -1,3 +1,8 @@
+## Dashboard Preview
+
+![Airbnb Price Prediction Dashboard](assets/dashboard.png)
+
+
 # Airbnb Price Prediction (NYC)
 
 ## Overview
